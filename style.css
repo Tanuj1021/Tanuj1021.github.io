@@ -1,0 +1,20 @@
+body{
+	background-image: url(capture.jpg);
+	background-size: cover;
+}
+
+header{
+	margin-top: 400px;
+	margin-bottom: 30px;
+}
+
+
+.btn-primary{
+	align-self: center;
+}
+
+.btn-primary:hover{
+	color: orange;
+	background-color: black; 
+	cursor: pointer;
+}
